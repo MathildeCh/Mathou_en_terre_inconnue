@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  font-family: 'Sniglet', cursive;
+  font-size: 80%;
+
+}
+
+a {
+  color : rgb(102, 120, 210);
+  decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: #2237a2;
+}

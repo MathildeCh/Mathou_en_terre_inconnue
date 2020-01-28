@@ -1,0 +1,30 @@
+.btn {
+  padding : 10px;
+  margin: 10px auto;
+  width : 100%;
+  border: 1px solid white;
+  background-color: #F2B705;
+  font-family: 'Sniglet', cursive;
+}
+
+.btn:hover {
+  cursor: pointer;
+  background-color:white;
+  border: 1px solid  #F2B705;
+}
+
+.login {
+  margin-bottom : 15px;
+}
+
+.login h3 {
+  text-align: center;
+}
+
+input {
+  padding : 5px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 0.3px solid black;
+  border-radius: 10px;
+}

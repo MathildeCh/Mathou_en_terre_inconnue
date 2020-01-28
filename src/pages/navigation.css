@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+
+main {
+  max-width: 700px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.logout {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+.profile {
+  position: fixed;
+  bottom: 10px;
+  right: 60px;
+}
+
+.create {
+  position: fixed;
+  bottom: 10px;
+  right: 110px;
+}
+
+.login {
+  padding : 10px;
+}
+
+.card {
+  /* border: 1px solid grey; */
+  margin: 24px auto;
+  /* width: 100px; */
+  display: inline-block;
+  text-align: center;
+}
+
+/* .card-title:hover {
+  border : 1px solid #F2B705;
+} */
+
+.card img {
+  width: 80%;
+}
+
+.card-body, .card-title {
+  /* padding: 5px 10px; */
+}
+
+.card-body p {
+  margin : 0 100px;
+}
+
+.card-body a {
+  margin-top: 12px;
+}
